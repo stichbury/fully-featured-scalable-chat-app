@@ -13,7 +13,7 @@ You're just interested in making a chat app.
 
 Here at Ably, we're writing an open-source demo chat app with a complete feature set. (We've called it the fully featured scalable chat app (or FFS for short). It's currently in progress, and as we go, we're putting the code in Github and writing a series of posts about it. Anyone can use it for chat integration in their apps. 
  
-We'll be using Ably in combination with other services to store, manipulate and share data ([here's a diagram of the stack](https://ik.imagekit.io/ably/ghost/prod/2021/11/fully-scalable-chat-app-architecture.png?tr=w-1520):
+We'll be using Ably in combination with other services to store, manipulate and share data ([here's a diagram of the stack](https://ik.imagekit.io/ably/ghost/prod/2021/11/fully-scalable-chat-app-architecture.png?tr=w-1520)):
 
 * Web Application that is hosted in Azure Static Web Apps (React)
 * "BFF" API built to run in Azure Functions (Node.js)
